@@ -14,6 +14,7 @@ The object of the game is to cross the road avoiding bugs and reach the river, u
 
 ## Game dependencies
 
-* HTML6,
+* HTML,
 * CSS3,
+* ES6,
 * Object-oriented JavaScript.
